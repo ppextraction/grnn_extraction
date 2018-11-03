@@ -22,5 +22,5 @@ Here is the project [page](https://ppextraction.github.io/grnn_extraction)
 
 ### Updating...
 
-* 2018-Oct-15, GRNN v0.1
-* 2018-Oct-15, GRNN v0.1, supproting the multi-label graph lableing and the sorted JRL framework
+* 2018-June-15, GRNN v0.1, graph labeling for triple extraction
+* 2018-Oct-03, GRNN v0.2, supproting the multi-label graph lableing and the sorted JRL framework
