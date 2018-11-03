@@ -22,4 +22,5 @@ Here is the project [page](https://ppextraction.github.io/grnn_extraction)
 
 ### Updating...
 
-* 2018-Oct-15, GRNN v0.1, initial version
+* 2018-Oct-15, GRNN v0.1
+* 2018-Oct-15, GRNN v0.1, supproting the multi-label graph lableing
